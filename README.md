@@ -1,6 +1,14 @@
 # 💫 About Me:
-🛠 I’m currently working on:<br>Building my skills in Machine Learning, Deep Learning, and exploring AI applications.<br><br>🤝 I’m looking to collaborate on:<br>Interesting AI/ML projects that solve real-world problems.<br><br>🧠 I’m looking for help with:<br>Deploying ML models and integrating them into web applications.<br><br>🌱 I’m currently learning:<br>Advanced deep learning, model optimization, and tools like TensorFlow and PyTorch.<br><br>💬 Ask me about:<br>Neural networks, time series prediction, and ML workflows.<br><br>⚡ Fun fact:<br>I enjoy experimenting with models just to see what they can discover!<br><br>
+Hi! I’m a passionate and curious Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning. I enjoy solving complex problems and exploring how intelligent systems can reshape the world around us.
 
+I actively experiment with programming languages, build machine learning models, analyze data, and develop real-world AI solutions. My journey revolves around continuous learning and applying AI across various domains—from healthcare and sustainability to automation and predictive analytics.
+
+Currently, I’m focused on expanding my knowledge, working on innovative projects, and seeking opportunities that challenge me both technically and creatively.
+
+Let’s connect if you’re into tech, ideas, and collaboration!
+
+📬 Email: sharmakan11052005@gmail.com
+🌐 Portfolio: https://kanisha-s-portfolio.vercel.app
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kanisha-sharma11/) 
