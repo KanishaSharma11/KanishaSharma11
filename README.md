@@ -8,6 +8,7 @@ Currently, I’m focused on expanding my knowledge, working on innovative projec
 Let’s connect if you’re into tech, ideas, and collaboration!
 
 📬 Email: sharmakan11052005@gmail.com
+
 🌐 Portfolio: https://kanisha-s-portfolio.vercel.app
 
 ## 🌐 Socials:
