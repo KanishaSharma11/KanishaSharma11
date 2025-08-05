@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! I’m a passionate and curious Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning. I enjoy solving complex problems and exploring how intelligent systems can reshape the world around us.
 
-I actively experiment with programming languages, build machine learning models, analyze data, and develop real-world AI solutions. My journey revolves around continuous learning and applying AI across various domains—from healthcare and sustainability to automation and predictive analytics.
+I actively experiment with programming languages, build machine learning models, analyze data, and develop real-world AI solutions. My journey revolves around continuous learning and applying AI across various domains—from healthcare and sustainability to predictive analytics.
 
 Currently, I’m focused on expanding my knowledge, working on innovative projects, and seeking opportunities that challenge me both technically and creatively.
 
