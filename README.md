@@ -10,8 +10,8 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About Me
-<img align="right" alt="Female Developer Animation" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f221ff467182562789c1c4e57980c4b4.gif">
+### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About Me
+<img align="right" alt="Female Developer Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```python
 class KanishaSharma:
@@ -128,27 +128,6 @@ me.say_hi()
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KanishaSharma11)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Kanisha_Sharma/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=firefox&logoColor=white)](https://kanisha-s-portfolio.vercel.app/)
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="35">&nbsp;***Fun Facts***
-
-<div align="center">
-
-```python
-fun_facts = {
-    "⚡": "I debug faster than I drink coffee ☕",
-    "🎯": "I can explain neural networks using pizza analogies 🍕",
-    "🚀": "My code runs on determination and Stack Overflow",
-    "🤖": "I dream in algorithms and wake up with solutions",
-    "🌟": "Turning caffeine into ML models since 2021"
-}
-
-for key, value in fun_facts.items():
-    print(f"{key} {value}")
-```
 
 </div>
 
