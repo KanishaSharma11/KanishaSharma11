@@ -125,7 +125,7 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=KanishaSharma11&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KanishaSharma11&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </div>
 
 <div align="center">
