@@ -121,12 +121,11 @@ me.say_hi()
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KanishaSharma11&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Kanisha Sharma github stats" /> 
-  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishaSharma11&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KanishaSharma11&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=KanishaSharma11&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </div>
 
 <div align="center">
