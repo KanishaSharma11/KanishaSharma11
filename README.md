@@ -83,6 +83,8 @@ me.say_hi()
 
 </div>
 
+---
+
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Achievements & Recognition
 <div align="center">
 
@@ -147,16 +149,5 @@ me.say_hi()
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling"/>
-</div>
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KanishaSharma11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KanishaSharma11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KanishaSharma11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=KanishaSharma11&icon=0&color=0)](https://visitcount.itsvg.in)
 
