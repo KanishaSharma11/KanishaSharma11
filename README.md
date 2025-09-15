@@ -83,7 +83,7 @@ me.say_hi()
 
 </div>
 
-
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Achievements & Recognition
 <div align="center">
 
 | 🏆 **Achievement** | 📅 **Year** | 🎯 **Impact** |
