@@ -10,7 +10,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About Me
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
 
 <img align="right" alt="AI Animation" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f221ff467182562789c1c4e57980c4b4.gif">
 
@@ -85,14 +85,15 @@ me.say_hi()
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Achievements & Recognition
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">&nbsp;***Achievements & Recognition***
+
 <div align="center">
 
 | 🏆 **Achievement** | 📅 **Year** | 🎯 **Impact** |
 |:---:|:---:|:---:|
 | 🥈 **HackLoop 2025 - 2nd Runner Up** | 2025 | 500+ teams competed |
 | 🎯 **Neural Nexus - Finalist** | 2025 | Top performer among 200+ teams |
-| 👨‍💼 **GSSoC Project Admin** | 2025 | Leading open source community |
+| 👩‍💼 **GSSoC Project Admin** | 2025 | Leading open source community |
 | 🎓 **Academic Excellence** | Ongoing | CGPA: 9.08/10 |
 
 </div>
@@ -133,6 +134,27 @@ me.say_hi()
 
 ---
 
+## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="35">&nbsp;***Fun Facts***
+
+<div align="center">
+
+```python
+fun_facts = {
+    "⚡": "I debug faster than I drink coffee ☕",
+    "🎯": "I can explain neural networks using pizza analogies 🍕",
+    "🚀": "My code runs on determination and Stack Overflow",
+    "🤖": "I dream in algorithms and wake up with solutions",
+    "🌟": "Turning caffeine into ML models since 2021"
+}
+
+for key, value in fun_facts.items():
+    print(f"{key} {value}")
+```
+
+</div>
+
+---
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+the+future+together!;Happy+Coding!+%F0%9F%9A%80" />
 </div>
@@ -145,5 +167,6 @@ me.say_hi()
 
 ---
 
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling"/>
+</div>
