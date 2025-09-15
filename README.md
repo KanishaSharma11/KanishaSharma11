@@ -10,8 +10,8 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
-<img align="right" alt="AI Animation" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f221ff467182562789c1c4e57980c4b4.gif">
+### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About Me
+<img align="right" alt="Female Developer Animation" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f221ff467182562789c1c4e57980c4b4.gif">
 
 ```python
 class KanishaSharma:
