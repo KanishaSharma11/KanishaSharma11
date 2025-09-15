@@ -11,7 +11,10 @@
 ---
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About Me
-<img align="right" alt="Female Developer Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<table>
+<tr>
+<td width="50%">
 
 ```python
 class KanishaSharma:
@@ -32,6 +35,17 @@ class KanishaSharma:
 me = KanishaSharma()
 me.say_hi()
 ```
+
+</td>
+<td width="50%">
+
+<div align="center">
+  <img alt="Female Developer Animation" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</div>
+
+</td>
+</tr>
+</table>
 
 ### 🎯 Current Focus
 - 🔬 **Deep Learning Research** - Exploring neural architectures
