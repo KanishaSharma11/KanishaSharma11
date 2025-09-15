@@ -1,11 +1,64 @@
-# 💫 About Me:
-Hi! I’m a passionate and curious Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning. I enjoy solving complex problems and exploring how intelligent systems can reshape the world around us.
+<h1 align="center"> 
+  Hey there 👋, I'm <span style="color:#FF6F61">Kanisha Sharma</span>  
+</h1>
 
-I actively build machine learning models, analyze data, and develop real-world AI solutions. My journey revolves around continuous learning and applying AI across various domains—from healthcare and sustainability to predictive analytics.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF6F61&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Open+Source+Contributor+%7C+Project+Admin;Hackathon+Winner+%26+Innovator;Always+Learning+%F0%9F%93%9A+Always+Building+%F0%9F%9A%80" />
+</p>
 
-Currently, I’m focused on expanding my knowledge, working on innovative projects, and seeking opportunities that challenge me both technically and creatively.
+---
 
-Let’s connect if you’re into tech, ideas, and collaboration!
+### 🌟 About Me  
+🔹 Passionate *AI/ML Engineer* exploring Deep Learning, Computer Vision & NLP.  
+🔹 Open-Source Contributor & *GSSoC Project Admin (2025)*.  
+🔹 *Hackathon Achiever* – 2nd Runner Up at HackLoop 2025 🏆 | Neural Nexus Finalist.  
+🔹 Currently pursuing *B.Tech CSE (AI & ML)* @ VIT Bhopal – CGPA *9.08/10*.  
+
+---
+
+### 💡 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,sklearn,flask,html,css,js,git,github" />
+</p>
+
+---
+
+### 🚀 Featured Projects  
+
+🔹 **[MoneyVest](https://github.com/omroy07/MoneyVest)** – ML-powered financial assistant 💰  
+&nbsp;&nbsp;&nbsp;&nbsp;Gold/Silver Price Prediction | Stock Forecasting | Investment Tracker
+
+🔹 **[AgriTech](https://github.com/KanishaSharma11/AgriTech)** – AI for Smart Farming 🌱  
+&nbsp;&nbsp;&nbsp;&nbsp;Crop Recommendation | Yield Prediction using Soil & Weather Data
+
+---
+
+### 🏆 Achievements  
+- 🥈 *HackLoop Hackathon 2025* – 2nd Runner Up out of 500+ teams  
+- 🎯 *Neural Nexus Hackathon* – Finalist among 200+ teams  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KanishaSharma11&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KanishaSharma11&theme=radical&hide_border=false" height="170"/>
+</p>
+
+---
+
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/kanisha-sharma11/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/KanishaSharma11"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Kanisha_Sharma/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" /></a>
+  <a href="https://kanisha-s-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6F61?logo=firefox&logoColor=white" /></a>
+</p>
+
+---
+
+✨ “Turning ideas into AI-powered reality, one model at a time.”
 
 📬 Email: sharmakan11052005@gmail.com
 
