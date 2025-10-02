@@ -92,7 +92,7 @@ me.say_hi()
 | 🚀 **Project** | 📝 **Description** | 🛠️ **Tech Stack** | ⭐ **Status** |
 |:---:|:---:|:---:|:---:|
 | **[MindWell](https://github.com/KanishaSharma11/MindWell)** | 🧠 A holistic AI-driven mental wellness platform utilizing API-integrated tools, a conversational chatbot for personalized support, and an anonymous peer community. | Python, ML, Flask, APIs | ![Stars](https://img.shields.io/github/stars/KanishaSharma11/MindWell?style=social) |
-| **[AgriTech](https://github.com/KanishaSharma11/AgriTech)** | 🌱 AI-driven smart farming solution with crop recommendation, yield prediction, chatbor, community and many more. | Python, ML, Data Analysis | ![Stars](https://img.shields.io/github/stars/KanishaSharma11/AgriTech?style=social) |
+| **[AgriTech](https://github.com/KanishaSharma11/AgriTech)** | 🌱 AI-driven smart farming solution with crop recommendation, yield prediction, chatbot, community and many more. | Python, ML, Data Analysis | ![Stars](https://img.shields.io/github/stars/KanishaSharma11/AgriTech?style=social) |
 
 </div>
 
