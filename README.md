@@ -91,6 +91,7 @@ me.say_hi()
 
 | 🚀 **Project** | 📝 **Description** | 🛠️ **Tech Stack** | ⭐ **Status** |
 |:---:|:---:|:---:|:---:|
+| **[EcoOps 360](https://github.com/KanishaSharma11/EcoOps-360)** | ☁ An intelligent sustainability platform that recommends the greenest cloud regions for your deployments powered by real-time carbon intensity data. | Node.js, Express.js, Google Cloud Console, Firebase, APIs | ![Stars](https://img.shields.io/github/stars/KanishaSharma11/EcoOps-360?style=social) |
 | **[MindWell](https://github.com/KanishaSharma11/MindWell)** | 🧠 A holistic AI-driven mental wellness platform utilizing API-integrated tools, a conversational chatbot for personalized support, and an anonymous peer community. | Python, ML, Flask, APIs | ![Stars](https://img.shields.io/github/stars/KanishaSharma11/MindWell?style=social) |
 | **[AgriTech](https://github.com/KanishaSharma11/AgriTech)** | 🌱 AI-driven smart farming solution with crop recommendation, yield prediction, chatbot, community and many more. | Python, ML, Data Analysis | ![Stars](https://img.shields.io/github/stars/KanishaSharma11/AgriTech?style=social) |
 
