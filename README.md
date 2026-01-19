@@ -113,9 +113,6 @@ me.say_hi()
 
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KanishaSharma11&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</div>
 
 ---
 
