@@ -22,7 +22,7 @@ class KanishaSharma:
         self.role = "AI/ML Engineer"
         self.location = "India 🇮🇳"
         self.education = "B.Tech CSE (AI & ML) @ VIT Bhopal"
-        self.cgpa = "9.10/10"
+        self.cgpa = "9.08/10"
         self.interests = [
             "Deep Learning", "Computer Vision", 
             "NLP", "Open Source", "Innovation"
