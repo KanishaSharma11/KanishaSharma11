@@ -119,15 +119,15 @@ me.say_hi()
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***GitHub Analytics***
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KanishaSharma11&show_icons=true&commits_year=2025&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800
-" alt="Kanisha Sharma github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishaSharma11&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KanishaSharma11&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishaSharma11&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" />
 </div>
-
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KanishaSharma11&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" />
 </div>
+
 
 ---
 
