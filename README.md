@@ -118,21 +118,9 @@ me.say_hi()
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***GitHub Analytics***
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KanishaSharma11&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KanishaSharma11&layout=compact&theme=github_dark&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=KanishaSharma11&theme=github-dark&hide_border=true" />
-</div>
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KanishaSharma11&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KanishaSharma11&theme=darkhub&no-frame=true&row=1&column=6" />
 </div>
 
 ---
