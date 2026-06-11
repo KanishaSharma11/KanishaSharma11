@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+%7C+VIT+Bhopal+%7C+CGPA+9.06;Deep+Learning+%C2%B7+NLP+%C2%B7+Generative+AI+%C2%B7+MLOps;Building+production-grade+AI+systems+that+actually+ship;GSSoC+2025+Project+Admin+%7C+Hackathon+Finalist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+%7C+VIT+Bhopal+%7C+CGPA+9.07;Deep+Learning+%C2%B7+NLP+%C2%B7+Generative+AI+%C2%B7+MLOps;Building+production-grade+AI+systems+that+actually+ship;GSSoC+2025+Project+Admin+%7C+Hackathon+Finalist" alt="Typing SVG" />
 
 <br/>
 
@@ -258,7 +258,7 @@ Recommends the most carbon-efficient cloud regions for deployments in real time 
 ║       └─ Leading open-source community at scale                             ║
 ║                                                                              ║
 ║   🎓  VIT Bhopal  ·  Academic Excellence                                    ║
-║       └─ CGPA 9.06 / 10.0  ·  B.Tech CSE (AI & ML)                        ║
+║       └─ CGPA 9.07 / 10.0  ·  B.Tech CSE (AI & ML)                        ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
