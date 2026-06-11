@@ -41,7 +41,7 @@ class KanishaSharma:
     IDENTITY = {
         "role"       : "AI/ML Engineer",
         "education"  : "B.Tech CSE (AI & ML) — VIT Bhopal",
-        "cgpa"       : 9.06,
+        "cgpa"       : 9.07,
         "location"   : "India 🇮🇳",
     }
 
