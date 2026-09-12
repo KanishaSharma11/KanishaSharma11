@@ -86,7 +86,7 @@ I'm an active open-source contributor through **GirlScript Summer of Code (GSSoC
 End-to-end AI analytics platform converting social and business data into actionable insights. Implements BERT-based NLP models for multi-platform sentiment analysis, Prophet/ARIMA time-series models to forecast financial and marketing trends, and an AI decision engine that generates data-driven business recommendations.
 `Flask` `BERT` `Prophet` `ARIMA` `Node.js` `REST APIs`
 
-### [EcoOps 360](https://github.com/KanishaSharma11/EcoOps-360)
+### [EcoOps 360](https://github.com/KanishaSharma11/EcoOps-360) — *Architect & Sole Developer*
 Sustainability platform recommending the greenest cloud regions for deployments using real-time carbon intensity data.
 `Node.js` `Express` `Firebase`
 
