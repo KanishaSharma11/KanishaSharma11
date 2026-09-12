@@ -105,7 +105,6 @@ AI-powered agricultural intelligence system delivering crop recommendation and y
 | Achievement | Year | Detail |
 |:--|:--:|:--|
 | 🥈 HackLoop Hackathon — 2nd Runner-Up | 2025 | Competed against 500+ teams |
-| 🌱 Open-Source Contributor | Ongoing | GirlScript Summer of Code (GSSoC) |
 | 🎓 Academic Excellence | Ongoing | CGPA 9.07/10, B.Tech CSE (AI & ML), VIT Bhopal |
 
 <br>
