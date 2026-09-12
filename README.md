@@ -64,14 +64,6 @@ I currently serve as a **GSSoC 2025 Project Admin**, leading open-source contrib
 
 ## Featured Work
 
-### Aurora Financials — AI Accounting Platform
-Full-stack accounting platform with a Celery-based AI classification pipeline (rule-based → retrieval → ML → LLM with confidence scoring), multi-tenant PostgreSQL row-level security, and JWT authentication. Deployed on GCP via Cloud Run, Firebase Hosting, and Neon PostgreSQL.
-`React` `TypeScript` `FastAPI` `PostgreSQL` `Celery` `GCP`
-
-### AuthorityOS — AI-Native Personal Branding Platform
-LinkedIn-first content platform built around a LangGraph multi-agent pipeline and RAG retrieval over a PostgreSQL/Qdrant data layer, with a cost-efficient self-hosted GPU serving architecture (vLLM).
-`LangGraph` `RAG` `PostgreSQL` `Qdrant` `vLLM`
-
 ### [BizChain AI](https://github.com/KanishaSharma11/BizChain-AI)
 AI-powered business intelligence platform turning raw data into forecasts and insights for startups and growth-stage businesses.
 `Prophet` `ARIMA` `NLP` `GCP`
