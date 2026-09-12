@@ -33,7 +33,7 @@ I'm an active open-source contributor through **GirlScript Summer of Code (GSSoC
 **Languages**
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
@@ -70,15 +70,17 @@ I'm an active open-source contributor through **GirlScript Summer of Code (GSSoC
 
 <br>
 
+**Also worked with professionally:**
+<br>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-4479A1?style=flat-square&logo=databricks&logoColor=white)
+
+<br>
+
 ## Featured Work
-
-### Aurora Financials — AI Accounting Platform
-Full-stack accounting platform with a Celery-based AI classification pipeline (rule-based → retrieval → ML → LLM with confidence scoring), multi-tenant PostgreSQL row-level security, and JWT authentication. Deployed on GCP via Cloud Run, Firebase Hosting, and Neon PostgreSQL.
-`React` `TypeScript` `FastAPI` `PostgreSQL` `Celery` `GCP`
-
-### AuthorityOS — AI-Native Personal Branding Platform
-LinkedIn-first content platform built around a LangGraph multi-agent pipeline and RAG retrieval over a PostgreSQL/Qdrant data layer, with a cost-efficient self-hosted GPU serving architecture (vLLM).
-`LangGraph` `RAG` `PostgreSQL` `Qdrant` `vLLM`
 
 ### [BizChain AI](https://github.com/KanishaSharma11/BizChain-AI) — *Architect & Sole Developer*
 End-to-end AI analytics platform converting social and business data into actionable insights. Implements BERT-based NLP models for multi-platform sentiment analysis, Prophet/ARIMA time-series models to forecast financial and marketing trends, and an AI decision engine that generates data-driven business recommendations.
