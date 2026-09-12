@@ -101,15 +101,6 @@ Smart farming solution with crop recommendation, yield prediction, and a farmer-
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KanishaSharma11&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishaSharma11&layout=compact&hide_border=true" width="30%" />
-</div>
-
-<br>
-
 ## Let's Connect
 
 I'm open to conversations on AI/ML engineering, full-stack development, and open-source collaboration.
