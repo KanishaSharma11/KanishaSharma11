@@ -20,7 +20,7 @@ Building production-grade AI-powered applications — from classification pipeli
 
 I'm a B.Tech CSE (AI & ML) student at VIT Bhopal (CGPA 9.07/10) with hands-on experience across machine learning, deep learning, data engineering, and cloud-based AI solutions. I've built end-to-end NLP, time-series forecasting, and computer vision systems using Python, TensorFlow, Scikit-learn, and Flask across the finance, agriculture, and mental health domains — and I work across the full stack, from React/TypeScript frontends to FastAPI backends and multi-agent LLM systems deployed on GCP.
 
-I currently serve as a **GSSoC (GirlScript Summer of Code) Project Admin**, leading open-source contributors, and I'm an active hackathon competitor — 2nd Runner-Up at HackLoop 2025 among 500+ teams, and a finalist at Neural Nexus.
+I'm an active open-source contributor through **GirlScript Summer of Code (GSSoC)**, and a hackathon competitor — 2nd Runner-Up at HackLoop 2025 among 500+ teams.
 
 <br>
 
@@ -102,10 +102,9 @@ AI-powered agricultural intelligence system delivering crop recommendation and y
 
 | Achievement | Year | Detail |
 |:--|:--:|:--|
-| 🥈 HackLoop 2025 — 2nd Runner-Up | 2025 | Competed against 500+ teams |
-| 🏅 Neural Nexus — Finalist | 2025 | Top performer among 200+ teams |
-| 👩‍💻 GSSoC Project Admin | 2025 | Leading an open-source community |
-| 🎓 Academic Excellence | Ongoing | CGPA 9.07/10, B.Tech CSE (AI & ML) |
+| 🥈 HackLoop Hackathon — 2nd Runner-Up | 2025 | Competed against 500+ teams |
+| 🌱 Open-Source Contributor | Ongoing | GirlScript Summer of Code (GSSoC) |
+| 🎓 Academic Excellence | Ongoing | CGPA 9.07/10, B.Tech CSE (AI & ML), VIT Bhopal |
 
 <br>
 
